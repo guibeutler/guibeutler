@@ -6,6 +6,12 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/guilherme-beutler/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/gbeutlerr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
 - 🌱 I’m currently learning backend
 - 💬 Ask me about JavaScript or React
 
