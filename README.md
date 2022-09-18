@@ -10,7 +10,7 @@
 <div>
   <a href="https://instragram.com/gbeutlerr">    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/101596777/190927681-3d9ffe86-648c-4f71-9b4a-24cc43ac859e.svg"  width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/101596777/190927681-3d9ffe86-648c-4f71-9b4a-24cc43ac859e.png"  width="40" height="40" />
 
           
   <a href="https://linkedin.com/in/guilherme-beutler">
