@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guibeutler.guibeutler">
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning backend
