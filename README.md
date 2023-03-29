@@ -59,5 +59,5 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=guibeutler&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guibeutler&bg_color=red&color=20232a&line=bd93f9&point=f1f5f9&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guibeutler&bg_color=61dafb&color=61dafb&line=61dafb&point=f1f5f9&area=true&hide_border=true" />
 </p>
